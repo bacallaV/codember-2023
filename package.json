@@ -1,0 +1,15 @@
+{
+    "name": "codemember",
+    "version": "1.0.0",
+    "description": "A fee calculator.",
+    "author": "Osvaldo",
+    "license": "ISC",
+    "type": "module",
+    "scripts": {
+        "start:first-challenge": "node src/main"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
